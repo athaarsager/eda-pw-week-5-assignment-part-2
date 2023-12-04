@@ -1,3 +1,9 @@
+body {
+    background-image: url("../example.png");
+    background-color: white;
+    background-size: cover;
+}
+
 header {
     background-color: darkcyan;
     color: lightcoral;
