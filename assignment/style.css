@@ -1,7 +1,7 @@
 body {
-    background-image: url("../example.png");
+    background-image: url("record.png");
     background-color: white;
-    background-size: cover;
+    background-repeat: repeat;
 }
 
 header {
